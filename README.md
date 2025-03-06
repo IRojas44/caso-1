@@ -11,14 +11,14 @@ Caso 1 de Isaac Rojas y Fabricio Picado
    - Activa el envío de notificación de que todo salió correctamente.
    - Cumple la tarea principal de realizar pagos a servicios/personas.
 
-2. **Verificación en dos pasos (2FA)**
-   - Asegura que la verificación de credenciales funciona correctamente.
-   - Permite el ingreso al sistema, donde el usuario puede configurar cuentas o crear un nuevo pago.
+2. **AI Chatbot**
+   - Mejor la experiencia general del usuario.
+   - Guia al usuario para la realización de ciertas acciones dentro de la aplicación, a la vez que responde consultas.
+   - Mejora la aceptación de la aplicación.
 
 3. **Selección de pago y recibimiento de notificaciones**
    - **Selección de pago:** Permite elegir el servicio o individuo a pagar e ingresar detalles de pago.
-   - **Notificaciones:** Mantienen al usuario informado sobre los eventos que ocurren en la plataforma.
-   - En caso de que el pago se realice correctamente, proporciona elementos importantes como un comprobante.
+   - **Notificaciones:** Mantienen al usuario informado sobre los eventos que ocurren en la plataforma, y en caso de que cierto pago se realice correctamente, proporciona elementos importantes como un comprobante.
 
 
 ## Link al diagrama
